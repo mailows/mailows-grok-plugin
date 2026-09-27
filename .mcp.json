@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mailows": {
+      "type": "http",
+      "url": "https://mcp.mailows.com/mcp",
+      "note": "Mailows hosted MCP: real agent email inboxes. OAuth 2.1 + PKCE; first connection opens a browser to authorize. Tools: mail_health, mail_list_inboxes, mail_list_messages, mail_read_message, mail_send_message, mail_prepare_attachment_uploads, mail_upload_attachment_chunk."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mailows",
+  "version": "1.0.0",
+  "description": "Mailows gives AI agents their own real email inboxes, so they can read and send mail without being handed the keys to yours.",
+  "author": {
+    "name": "DW Technology LLC",
+    "email": "support@mailows.com",
+    "url": "https://mailows.com"
+  },
+  "repository": "https://github.com/mailows/mailows-grok-plugin",
+  "homepage": "https://www.mailows.com/mcp-manual",
+  "license": "AGPL-3.0-only",
+  "keywords": ["mailows", "email", "inbox", "mcp", "mail"]
+}
